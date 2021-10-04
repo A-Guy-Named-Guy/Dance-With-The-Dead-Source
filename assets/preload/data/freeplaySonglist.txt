@@ -1,0 +1,3 @@
+thrill:skeleton:2
+ghoul:skeleton:2
+vigor:skeleton:2
