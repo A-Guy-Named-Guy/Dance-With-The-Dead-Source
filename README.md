@@ -2,6 +2,8 @@ Hello! I'm fairly new to this sort of developing process, so sorry if this readm
 
 This is the source code for Friday Night Funkin - Dancing With the Dead! (VS Sophia) mod. Feel free to snoop around in here, there's some bonus goodies in the first art folder, around where you'd formerly find the FlashFiles.
 
+The entire source code is here, I think. At the very least you can take a look at the important files, decent chance this could compile.
+
 # Credits
 ### Friday Night Funkin'
  - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programming
